@@ -21,9 +21,9 @@ const styles = StyleSheet.create({
   },
 logoStyle: {
   flex: 1,
-   width: 230,
-   height: 230,
-   resizeMode: 'contain',
+   width: 231,
+   height: 231,
+   resizeMode: 'contain'
   },
 });
 
